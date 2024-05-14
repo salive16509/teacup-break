@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "https",
-    "url": "https://github.com/cuongdt1994/tea-cup-join.git"
+    "url": "https://github.com/salive16509/teacup-break.git"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
